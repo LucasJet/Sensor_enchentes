@@ -26,4 +26,4 @@ Se a boia emitir sinais 3x no dia, a mesma envia um alerta de segurança
   - Álvaro C. Rumpel
   - Lucas de Oliveira Rodrigues
   - Luan V. da Costa
-  - Irakitã Luan Rosa
+  - Irakitã Luan Soares da Rosa
