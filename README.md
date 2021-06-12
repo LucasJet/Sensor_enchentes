@@ -19,7 +19,7 @@ Estrutura do arquivo:
 |:---------:|:-------:|:--------:|:-------------:|
 |           |         |          |               |
   
-Se a boia emitir sinais 3x no dia, a mesma envia um alerta de segurança 
+Se a boia emitir sinal no nível 3, a mesma envia um alerta de segurança 
 
 <h1 align="center">Autores</h1>
 
